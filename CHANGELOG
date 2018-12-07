@@ -1,6 +1,5 @@
 Version 2.10.0 (2018-12-10)
 --------------------------
-Use base64url package instead of base64.ts (#694)
 Transpile helpers.js and detectors.js (#693)
 Allow dynamic context callbacks for link and form tracking (#585)
 Fix default configOptOutCookie value (#672)
